@@ -1,6 +1,6 @@
 <h1 align='center'>Squad 8</h1> <br/>
 <div align='center'>
-        <a href='#'><img src='#' alt='Logo Technical Share.' width='200px'/></a>
+        <a href='#'><img src='https://i.imgur.com/aKiNSth.png' alt='Logo Technical Share.' width='300px'/></a>
 </div>
 
 
@@ -40,16 +40,19 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 
 <br>
 
+
+
+
 <h2 id='tech'>:rocket: Tecnologias:</h2>
 <p align='center'>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='100px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width='100px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='100px'/>
-  <img src="https://styled-components.com/atom.png"  width='100px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width='100px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width='100px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width='100px'/>
-  
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='80px'/>
 </p>
 
 <br/>
@@ -68,8 +71,13 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 </p>
 
 <br/>
-<h3 align='center'>Acesse o layout completo do projeto pelo Figma: <a href='#'><strong>Technical Share - Protótipo final</strong></a></h3>
+<h3 align='center'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='20px'/>
+        Acesse o layout completo do projeto pelo Figma: <a href='#'><strong>Technical Share - Protótipo final</strong></a>
+</h3>
+
 <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width='20px'/>
 
 <h2 id="comorodaroprojeto">:gear:Como rodar o projeto?</h2>
 
@@ -118,24 +126,39 @@ $ yarn start
 
 <h2 id="conteudoxterno">:file_folder:Conteúdo Externo</h2> 
 
-* :wink: Veja o nosso [vídeo de funcionalidades](https://youtu.be/v7VXScbpCMg)! 
-* :black_nib: Também nosso [artigo](https://medium.com/@anapssouza/voltando-ao-escrit%C3%B3rio-em-seguran%C3%A7a-estudo-de-caso-fcamara-bbdf6de9a00e) desenvolvido pelo nosso trio de UX Design, relatando todo o processo de desenvolvimento. 
-* :yellow_heart: Nosso [Pitch](https://drive.google.com/file/d/1BqQAbJBO9QZUIt8zK1JFG_LoLW7MZW79/view?usp=sharing).
+* :wink: Veja o nosso [vídeo de funcionalidades](#)! 
+* :black_nib: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
+* :yellow_heart: Nosso [Pitch](#).
 
+<br>
+
+-- [MIRO : ](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
+-- [TRELLO : ](https://trello.com/b/8MfsWPcR/squad8) <br>
+-- DIAGRAMA DE CLASSE UML : DBDESIGNER
+ 
 <br>
 
 <h2 id="nossaequipe">:busts_in_silhouette:Nossa Equipe</h2> 
 
 
 |:woman_cartwheeling:|Nome|*No Programa de Formação eu...*|Contatos|
-|--|--|:--:|--|
-|<img src="https://avatars.githubusercontent.com/u/88353298?v=4" width="300"><br>*Desenvolvedora*| Beatriz Paixão | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Github](https://github.com/biiah-paixao) [Linkedin](https://www.linkedin.com/beatriz-paixao/) [Email](biaperon2001@gmail.com)
-|<img src="https://avatars.githubusercontent.com/u/32516236?v=4" width="300"><br>*Desenvolvedor*| Bruno Mundim | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Github](https://github.com/BrunoMundim) [Linkedin](https://www.linkedin.com/in/bruno-mundim/) [Email](brunomundimfranco@gmail.com) |
-| <img src="https://avatars.githubusercontent.com/u/48768035?v=4" width="300"><br>*Desenvolvedor* | Bruno Soares | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Github](https://github.com/brunosas88) [Linkedin](https://www.linkedin.com/in/brunosas/) [Email](bruno.sas@live.com) |
-| <img src="https://avatars.githubusercontent.com/u/47821159?v=4" width="300"><br>*Desenvolvedor* | Carlos Eduardo | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Github](https://github.com/Carlos-Xavier)  [Linkedin](https://www.linkedin.com/in/carlos-e-x-bezerra/) [Email](cexbezerra@gmail.com) | 
-| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Franciele | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Linkedin](#) [Email](#) | 
-| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Maria Eduarda | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Linkedin](#) [Email](#) | 
-| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Yulli Rezende | *"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."* | [Linkedin](#) [Email](#) | 
+|--|
+|<img src="https://avatars.githubusercontent.com/u/88353298?v=4" width="300"><br>*Desenvolvedora*| Beatriz Paixão | [Github](https://github.com/biiah-paixao) [Linkedin](https://www.linkedin.com/beatriz-paixao/) [Email](biaperon2001@gmail.com)
+
+|_Bruno Mundim_|_Felipe Lobo_|_Hugo Lemos_|_Danrley Senegalha_|
+|---|---|---|---|
+|<img src="https://avatars.githubusercontent.com/u/32516236?v=4" width="140">|<img src="https://github.com/felipeblobo.png" width="140">|<img src="https://github.com/hirogawa.png" width="140">|<img src="https://github.com/dansenpir.png" width="140">
+|_*Desenvolvedor*_|---|---|---|
+|[Github](https://github.com/BrunoMundim)<br>[Linkedin](https://www.linkedin.com/in/bruno-mundim/)<br>[Email](brunomundimfranco@gmail.com)|---|---|---|
+
+<!-- |<img src="" width="300"><br>| Bruno Mundim | [Github](https://github.com/BrunoMundim) [Linkedin](https://www.linkedin.com/in/bruno-mundim/) [Email](brunomundimfranco@gmail.com) |
+
+
+
+| <img src="https://avatars.githubusercontent.com/u/48768035?v=4" width="300"><br>*Desenvolvedor* | Bruno Soares | [Github](https://github.com/brunosas88) [Linkedin](https://www.linkedin.com/in/brunosas/) [Email](bruno.sas@live.com) |
+| <img src="https://avatars.githubusercontent.com/u/47821159?v=4" width="300"><br>*Desenvolvedor* | Carlos Eduardo | [Github](https://github.com/Carlos-Xavier)  [Linkedin](https://www.linkedin.com/in/carlos-e-x-bezerra/) [Email](cexbezerra@gmail.com) | 
+| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Maria Eduarda | [Linkedin](#) [Email](#) | 
+| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Yulli Rezende | [Linkedin](#) [Email](#) |  -->
 
 <br>
 
