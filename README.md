@@ -131,8 +131,8 @@ $ yarn start
 ```
 Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)?
 - Criamos um readme exclusivo para cada uma - Acesse:
-
-
+        * FRONT-END - https://github.com/squad8-hackatho/squad8-hackathon-front
+        * BACK-END - https://github.com/squad8-hackatho/squad8-hackathon-back
 
 <br>
 
