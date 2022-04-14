@@ -149,9 +149,9 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 
 * :clapper: Veja o nosso [vídeo de funcionalidades](#)! 
 * :page_facing_up: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
-* :loudspeaker: Nosso [Pitch](#).
-        - -- [MIRO : ](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
-        - -- [TRELLO : ](https://trello.com/b/8MfsWPcR/squad8) <br>
+* :loudspeaker: Nosso [Pitch](#). <br>
+        - -- [MIRO](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
+        - -- [TRELLO](https://trello.com/b/8MfsWPcR/squad8) <br>
         
 <br>
 
