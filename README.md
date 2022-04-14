@@ -22,14 +22,15 @@
 
 <h2 id='projeto'>:computer: Projeto:</h2>
 <p>
-  O projeto aqui apresentado foi desenvolvido durante o <a href='https://digital.fcamara.com.br/programadeformacao'><strong>Programa de Formação - Season 3</strong></a>, promovido pela <a href='https://www.fcamara.com.br'><strong>FCamara</strong></a>. Foi inédito participar do Hackathon, respirando tecnologia ao longo dessas duas semanas incríveis!
+  Este projeto, aqui apresentado foi desenvolvido durante o <a href='https://digital.fcamara.com.br/programadeformacao'><strong>Programa de Formação - Season 3</strong></a>, promovido pela <a href='https://www.fcamara.com.br'><strong>FCamara</strong></a>. Foram 15 dias incriveis de Hackathon, cercados por tecnologia e adquirindo grandes conhecimentos!
 </p>
 <p>
-  Agora chegou a hora de colher os frutos do nosso trabalho. A seguir, apresentamos uma breve explicação sobre a problemática e a proposta que recebemos para trabalhar durante o Hackathon.  
+É com grande prazer que chegou a hora de aprensentar nosso trabalho, Technical Share, fruto de grandes dias de produção e ttrabalho em equipe, mas antes uma breve explicação sobre a problemática e a proposta que recebemos para trabalhar durante o Hackathon.  
 </p>
 
 <ul>
-        <li><strong><em>Problemática:</em></strong> Sabemos que quem decide trabalhar com tecnologia estuda constantemente para estar sempre atualizado, pois o avanço das informações está cada vez mais rápido.
+        <li><strong><em>Problemática:</em></strong> 
+Sabemos que quem decide trabalhar com tecnologia estuda constantemente para estar sempre atualizado, pois o avanço das informações está cada vez mais rápido.
 Em contrapartida, muitas pessoas que decidem entrar na área e não sabem por onde começar ou onde encontrar.
 Além disso, não são apenas pessoas que estão decidindo sua primeira carreira para a vida. Muitas pessoas estão infelizes com suas formações ou empregos, ou se identificam mais com a área de tecnologia, e decidiram migrar de carreira, ou seja, elas têm muitos afazeres no dia e, por consequência, não tem tanto tempo.</li>
   <br>
@@ -77,27 +78,24 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 </h3>
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width='20px'/>
 
 <h2 id="comorodaroprojeto">:gear:Como rodar o projeto?</h2>
 
+Nosso projeto está disponivel na web - Acesse [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width='30px'/>](#)
+
+Mas caso queria rodar localmente aqui vai as instruções :small_red_triangle_down:
+
+Recursos Necessários 
+- .
+- . 
+- . 
+
+
 ``` bash
+
+FRONT-END
 #Clone este repositório
-$ git clone https://github.com/squad8-hackatho/squad8-hackthon.git
-
-#Abra a pasta backend e no terminal execute o comando:
-$ npm install
-ou
-$ yarn install
-
-#Em seguida deixe a aplicação “rodando” através do comando abaixo:
-$ npm start
-ou
-$ yarn start
-
-
-
-#A aplicação (backend) será aberta na porta:3333 - acesse http://localhost:3333. 
+$ git clone https://github.com/squad8-hackatho/squad8-hackathon-front.git
 
 #Na pasta frontend abra o terminal e execute o comando:
 $ npm install
@@ -111,7 +109,30 @@ $ yarn start
 
 #A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
 ```
-*OBS: Para que a aplicação funcione corretamente, você deve deixar o front e o back rodando ao mesmo tempo.*
+*OBS: Para que a aplicação funcione, não é necessário rodar o Back localmente pois ele está online na nuvem*
+
+
+``` bash
+BACK-END
+#Clone este repositório
+$ git clone https://github.com/squad8-hackatho/squad8-hackathon-back.git
+
+#Abra a pasta backend e no terminal execute o comando:
+$ npm install
+ou
+$ yarn install
+
+#Em seguida deixe a aplicação “rodando” através do comando abaixo:
+$ npm start
+ou
+$ yarn start
+
+#A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080. 
+```
+Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)?
+- Criamos um readme exclusivo para cada uma - Acesse:
+
+
 
 <br>
 
@@ -126,15 +147,14 @@ $ yarn start
 
 <h2 id="conteudoxterno">:file_folder:Conteúdo Externo</h2> 
 
-* :wink: Veja o nosso [vídeo de funcionalidades](#)! 
-* :black_nib: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
-* :yellow_heart: Nosso [Pitch](#).
+* :clapper: Veja o nosso [vídeo de funcionalidades](#)! 
+* :page_facing_up: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
+* :loudspeaker: Nosso [Pitch](#).
 
 <br>
 
 -- [MIRO : ](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
 -- [TRELLO : ](https://trello.com/b/8MfsWPcR/squad8) <br>
--- DIAGRAMA DE CLASSE UML : DBDESIGNER
  
 <br>
 
