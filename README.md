@@ -60,7 +60,7 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 
 <ul>
         <li><strong><em>Front End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
-        <li><strong><em>Back End: </em></strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
+        <li><strong><em>Back End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
 </ul>
 
 <br>
@@ -130,8 +130,8 @@ $ yarn start
 #A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080. 
 ```
 Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)?
-- Criamos um readme exclusivo para cada uma - Acesse:
-        * FRONT-END - https://github.com/squad8-hackatho/squad8-hackathon-front
+- Criamos um readme exclusivo para cada uma - Acesse: <br>
+        * FRONT-END - https://github.com/squad8-hackatho/squad8-hackathon-front <br> 
         * BACK-END - https://github.com/squad8-hackatho/squad8-hackathon-back
 
 <br>
@@ -150,12 +150,9 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 * :clapper: Veja o nosso [vídeo de funcionalidades](#)! 
 * :page_facing_up: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
 * :loudspeaker: Nosso [Pitch](#).
-
-<br>
-
--- [MIRO : ](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
--- [TRELLO : ](https://trello.com/b/8MfsWPcR/squad8) <br>
- 
+        - -- [MIRO : ](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
+        - -- [TRELLO : ](https://trello.com/b/8MfsWPcR/squad8) <br>
+        
 <br>
 
 <h2 id="nossaequipe">:busts_in_silhouette:Nossa Equipe</h2> 
