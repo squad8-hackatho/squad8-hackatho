@@ -60,15 +60,15 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 
 <ul>
         <li><strong><em>Front End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
-        <li><strong><em>Back End: </em></strong>para o desenvolvimento da API que realizaria a definição de rotas, processamento de requisições, validação de dados e comunicação com o Banco de Dados, foi utilizado o framework para NodeJS <a href='https://adonisjs.com'>AdonisJS</a>. Para armazenar os dados de acesso dos usuários, escritórios disponíveis para agendar a visita e os próprios agendamentos, optou-se pelo PostgreSQL.</li>
+        <li><strong><em>Back End: </em></strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
 </ul>
 
 <br>
 
 <h2 id='layout'>:iphone: Layout:</h2>
-<p>Todo o layout da aplicação foi projetado em mobile-first, mas todas as páginas se ajustam a vários tamanhos de tela.</p> 
+<p>Todo o layout da aplicação foi ...</p> 
 <p>
-    As cores e fontes aplicadas também foram cuidadosamente selecionadas, obedecendo às diretrizes do estabelecidas no Brand Book FCamara. Para atender às necessidades dos usuários, o time UX-Design realizou entrevistas com vários <strong>#SangueLaranjas</strong>. Dessa forma foi possível definir as funcionalidades que seriam desenvolvidas e o fluxo de telas.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
 <br/>
