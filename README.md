@@ -140,25 +140,20 @@ $ yarn start
 
 <h2 id="nossaequipe">:busts_in_silhouette:Nossa Equipe</h2> 
 
-
+<!-- 
 |:woman_cartwheeling:|Nome|*No Programa de Formação eu...*|Contatos|
-|--|
-|<img src="https://avatars.githubusercontent.com/u/88353298?v=4" width="300"><br>*Desenvolvedora*| Beatriz Paixão | [Github](https://github.com/biiah-paixao) [Linkedin](https://www.linkedin.com/beatriz-paixao/) [Email](biaperon2001@gmail.com)
+|--|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>-->
 
-|_Bruno Mundim_|_Felipe Lobo_|_Hugo Lemos_|_Danrley Senegalha_|
-|---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/32516236?v=4" width="140">|<img src="https://github.com/felipeblobo.png" width="140">|<img src="https://github.com/hirogawa.png" width="140">|<img src="https://github.com/dansenpir.png" width="140">
-|_*Desenvolvedor*_|---|---|---|
-|[Github](https://github.com/BrunoMundim)<br>[Linkedin](https://www.linkedin.com/in/bruno-mundim/)<br>[Email](brunomundimfranco@gmail.com)|---|---|---|
 
-<!-- |<img src="" width="300"><br>| Bruno Mundim | [Github](https://github.com/BrunoMundim) [Linkedin](https://www.linkedin.com/in/bruno-mundim/) [Email](brunomundimfranco@gmail.com) |
+|_Beatriz Paixão_|_Bruno Mundim_|_Bruno Soares_|_Carlos Eduardo_|_Maria Eduarda_|_Yulli Rezende_|
+|---|---|---|---|---|---|
+|<img src="https://avatars.githubusercontent.com/u/88353298?v=4g" width="140">|<img src="https://avatars.githubusercontent.com/u/32516236?v=4" width="140">|<img src="https://avatars.githubusercontent.com/u/48768035?v=4" width="140">|<img src="https://avatars.githubusercontent.com/u/47821159?v=4" width="140">|<img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="140">|<img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="140">
+|_*Desenvolvedora*_|_*Desenvolvedor*_|_*Desenvolvedor*_|_*Desenvolvedor*_|_*UX Designer*_|_*UX Designer*_|
+|[Github](https://github.com/biiah-paixao)<br>[Linkedin](https://www.linkedin.com/beatriz-paixao/)<br>[Email](biaperon2001@gmail.com)|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>[Github](https://github.com/BrunoMundim)<br>[Linkedin](https://www.linkedin.com/in/bruno-mundim/)<br>[Email](brunomundimfranco@gmail.com)|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>[Github](https://github.com/brunosas88)<br>[Linkedin](https://www.linkedin.com/in/brunosas/)<br>[Email](bruno.sas@live.com)|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>[Github](https://github.com/Carlos-Xavier)<br>[Linkedin](https://www.linkedin.com/in/carlos-e-x-bezerra/)<br>[Email](cexbezerra@gmail.com)|[Linkedin](#)<br>[Email](#)|[Linkedin](#)<br>[Email](#)
 
 
 
-| <img src="https://avatars.githubusercontent.com/u/48768035?v=4" width="300"><br>*Desenvolvedor* | Bruno Soares | [Github](https://github.com/brunosas88) [Linkedin](https://www.linkedin.com/in/brunosas/) [Email](bruno.sas@live.com) |
-| <img src="https://avatars.githubusercontent.com/u/47821159?v=4" width="300"><br>*Desenvolvedor* | Carlos Eduardo | [Github](https://github.com/Carlos-Xavier)  [Linkedin](https://www.linkedin.com/in/carlos-e-x-bezerra/) [Email](cexbezerra@gmail.com) | 
-| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Maria Eduarda | [Linkedin](#) [Email](#) | 
-| <img src="https://avatars.githubusercontent.com/u/102770650?v=4" width="300"><br>*UX Designer* | Yulli Rezende | [Linkedin](#) [Email](#) |  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/>
 
 <br>
 
