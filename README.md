@@ -171,6 +171,8 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 * :loudspeaker: Nosso [Pitch](#). <br>
 * -- [MIRO](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
 * -- [TRELLO](https://trello.com/b/8MfsWPcR/squad8) <br>
+* -- [DBDESIGNER](https://user-images.githubusercontent.com/88353298/163578766-cebc9f4e-1e2c-4e40-8ebd-0fdf524414d3.png)
+
         
 <br>
 
