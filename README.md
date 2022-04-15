@@ -14,7 +14,7 @@
   <a href='#features'>Features</a> | 
   <a href='#conteudoxterno'>Conteúdo Externo</a> | 
   <a href='#nossaequipe'>Nossa Equipe</a> | 
-  <a href='#licenca'>Licença</a> | 
+  <a href='#licenca'>Licença</a>
 
 </p>
 
@@ -47,20 +47,19 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 <h2 id='tech'>:rocket: Tecnologias:</h2>
 <p align='center'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='80px'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width='80px'/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='80px'/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='80px'/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='80px'/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width='80px'/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width='80px'/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='80px'/>
 </p>
 
 <br/>
-
 <ul>
-        <li><strong><em>Front End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
-        <li><strong><em>Back End: </em></strong>"O projeto foi desenvolvido empregando o framework do Swagger como interface para acesso direto às rotas do sistema implementado em Spring Boot 2.6.6 e Java 11. O banco de dados utilizado foi PostgresSQL do próprio Heroku onde a aplicação está disponibilizada. Não são necessárias instalações de programas terceiros para executar e manipular a API."</li>
+        <li><strong><em>Front End: </em></strong>"O projeto foi desenvolvido utilizando a biblioteca React com a linguagem Typescript. Para a estilização das paginas uitilizamos o Styled-Components, que nos permitiu componentizar partes do layout, permitindo a reusabilidade do mesmo codigo em várias páginas. Foram utilizadas tambem o React-router-dom para criação de rotas, Axios para integração com o Back-End, e no cogigo utilizamos ESLint e Prettier para padronização na indentação."</li>
+        <li><strong><em>Back End: </em></strong>"O desenvolvimento da API foi realizado empregando o framework do Swagger como interface para acesso direto às rotas do sistema implementado em Spring Boot 2.6.6 e Java 11. O banco de dados utilizado foi PostgresSQL do próprio Heroku onde a aplicação está disponibilizada. Não são necessárias instalações de programas terceiros para executar e manipular a API."</li>
 </ul>
 
 <br>
@@ -81,7 +80,7 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 
 <h2 id="comorodaroprojeto">:gear:Como rodar o projeto?</h2>
 
-Nosso projeto está disponivel na web - Acesse [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width='30px'/>](#)
+Nosso projeto está disponivel na web - Acesse [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width='30px'/>](https://fcamara-technicalshare.herokuapp.com)
 
 Mas caso queria rodar localmente aqui vai as instruções :small_red_triangle_down:
 
@@ -90,30 +89,9 @@ Recursos Necessários
 - . 
 - . 
 
+<h3>- BACK-END</h3>
 
-``` bash
-
-FRONT-END
-#Clone este repositório
-$ git clone https://github.com/squad8-hackatho/squad8-hackathon-front.git
-
-#Na pasta frontend abra o terminal e execute o comando:
-$ npm install
-ou
-$ yarn install
-
-#Em seguida deixe a aplicação “rodando” através do comando abaixo:
-$ npm start
-ou
-$ yarn start
-
-#A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
-```
-*OBS: Para que a aplicação funcione, não é necessário rodar o Back localmente pois ele está online na nuvem*
-
-
-``` bash
-BACK-END
+~~~bash 
 #Clone este repositório
 $ git clone https://github.com/squad8-hackatho/squad8-hackathon-back.git
 
@@ -128,7 +106,48 @@ ou
 $ yarn start
 
 #A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080. 
-```
+~~~
+
+<h3>- FRONT-END</h3>
+
+~~~bash 
+# Clone esse repositório 
+$ git clone https://github.com/squad8-hackatho/squad8-hackathon-front.git 
+
+# Instale as dependências do projeto
+
+$ npm install
+# ou
+$ yarn install 
+
+# Inicie o projeto
+
+$npm start
+# ou
+$ yarn start 
+
+#A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
+~~~
+*OBS: Para que a aplicação funcione, não é necessário rodar o Back localmente pois ele está online na nuvem*
+
+<br>
+
+<h2 id="comoEntrar">🚪 Como entrar?</h2>
+<ul>
+  <li><strong>Crie sua conta:</strong></li>
+  <br />
+  <strong>OU</strong>
+  <br />
+  <br />
+  <li><strong>Entre com:</strong></li>
+  <ul>
+    <li>email: teste@teste.com</li>
+    <li>senha: teste</li>
+  </ul>
+</ul>
+<br>
+<hr>
+
 Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)?
 - Criamos um readme exclusivo para cada uma - Acesse: <br>
         * FRONT-END - https://github.com/squad8-hackatho/squad8-hackathon-front <br> 
@@ -136,7 +155,7 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 
 <br>
 
-<h2 id="features">:wrench:Features</h2>
+<h2 id="features">✨Features</h2>
 
 * O que será que pensamos para o futuro da nossa aplicação...? :sunglasses:
     * **01** - ??
@@ -150,8 +169,8 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 * :clapper: Veja o nosso [vídeo de funcionalidades](#)! 
 * :page_facing_up: Também nosso [artigo](#) desenvolvido pela nossa dupla de UX Design, relatando todo o processo de desenvolvimento. 
 * :loudspeaker: Nosso [Pitch](#). <br>
-        - -- [MIRO](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
-        - -- [TRELLO](https://trello.com/b/8MfsWPcR/squad8) <br>
+* -- [MIRO](https://miro.com/app/board/uXjVOAKbHZA=/) <br>
+* -- [TRELLO](https://trello.com/b/8MfsWPcR/squad8) <br>
         
 <br>
 
