@@ -60,7 +60,7 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 
 <ul>
         <li><strong><em>Front End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
-        <li><strong><em>Back End: </em></strong>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</li>
+        <li><strong><em>Back End: </em></strong>"O projeto foi desenvolvido empregando o framework do Swagger como interface para acesso direto às rotas do sistema implementado em Spring Boot 2.6.6 e Java 11. O banco de dados utilizado foi PostgresSQL do próprio Heroku onde a aplicação está disponibilizada. Não são necessárias instalações de programas terceiros para executar e manipular a API."</li>
 </ul>
 
 <br>
