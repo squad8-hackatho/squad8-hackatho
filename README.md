@@ -65,10 +65,8 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 <br>
 
 <h2 id='layout'>:iphone: Layout:</h2>
-<p>Todo o layout da aplicação foi ...</p> 
-<p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
+<img src="IMAGENS DO LAYOUT" alt="IMAGENS DO LAYOUT" width=''/>
+
 
 <br/>
 <h3 align='center'>
@@ -85,9 +83,9 @@ Nosso projeto está disponivel na web - Acesse [<img src="https://cdn.jsdelivr.n
 Mas caso queria rodar localmente aqui vai as instruções :small_red_triangle_down:
 
 Recursos Necessários 
+- Editor de codigo bom (recomenda-se o VSCode)
+- Node.js
 - .
-- . 
-- . 
 
 <h3>- BACK-END</h3>
 
@@ -158,8 +156,8 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 <h2 id="features">✨Features</h2>
 
 * O que será que pensamos para o futuro da nossa aplicação...? :sunglasses:
-    * **01** - ??
-    * **02** - ??
+    * **01** - Campo para adicionar foto do usuário
+    * **02** - Permitir usuário editar seu perfil
     * **03** - ??
 
 <br>
