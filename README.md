@@ -93,15 +93,10 @@ Recursos Necessários
 #Clone este repositório
 $ git clone https://github.com/squad8-hackatho/squad8-hackathon-back.git
 
-#Abra a pasta backend e no terminal execute o comando:
-$ npm install
-ou
-$ yarn install
-
-#Em seguida deixe a aplicação “rodando” através do comando abaixo:
-$ npm start
-ou
-$ yarn start
+- Abra o projeto em seu editor de codigo 
+- Se 
+-
+-
 
 #A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080. 
 ~~~
