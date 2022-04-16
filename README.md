@@ -65,10 +65,9 @@ Na Technical Share, pessoas com diferentes níveis de experiência poderão se e
 <br>
 
 <h2 id='layout'>:iphone: Layout:</h2>
-<img src="IMAGENS DO LAYOUT" alt="IMAGENS DO LAYOUT" width=''/>
-
-
-<br/>
+<div align='center'>
+        <img src="https://user-images.githubusercontent.com/88353298/163655476-5b886564-1e66-4589-afe5-d6d9ef658282.png" width='800'/>
+</div>
 <h3 align='center'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='20px'/>
         Acesse o layout completo do projeto pelo Figma: <a href='https://www.figma.com/proto/JJoZaltf2AublPKPlSiR1r/TechnicalShare-%2F-Squad-8?node-id=720%3A5982&scaling=scale-down&page-id=0%3A1&starting-point-node-id=720%3A5974&show-proto-sidebar=1'><strong>Technical Share - Protótipo final</strong></a>
@@ -89,17 +88,28 @@ Recursos Necessários
 
 <h3>- BACK-END</h3>
 
-~~~bash 
-#Clone este repositório
-$ git clone https://github.com/squad8-hackatho/squad8-hackathon-back.git
+O Back está disponivel na Web atraves da url https://technicalsharesquad8.herokuapp.com. Para utilização de qualquer rota basta completar a url com algum dos complementos mostrados na próxima sessão. Pode-se utilizar também o [Swagger-UI](https://technicalsharesquad8.herokuapp.com/swagger-ui/index.html) da aplicação.
 
-- Abra o projeto em seu editor de codigo 
-- Se 
--
--
+Mas caso queira acessar localmente ao site:
+        
+``` bash
+git clone https://github.com/squad8-hackatho/squad8-hackathon-back.git
+```
+- Abra o projeto em um editor de codigo para Spring Boot de sua preferencia (recomendamos o [VSCode](https://code.visualstudio.com)
+- Caso escolhar rodar utilizando o VSCode certifique-se de que possue as seguintes extensões instaladas
+  - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+<img src="https://user-images.githubusercontent.com/88353298/163655204-b6ce2524-efcc-40a5-852e-d4d57309eb92.png" width="800"/>
 
-#A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080. 
-~~~
+  - [Spring Boot Extension Pack](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack)
+<img src="https://user-images.githubusercontent.com/88353298/163655232-cb2910b1-b49f-43cb-a4ee-aa5598d31e22.png" width="800"/>
+
+- Agora apenas inicie sua aplicação utilizando a guia "spring-boot-dashboard":
+<img src="https://user-images.githubusercontent.com/88353298/163655038-ff7da9cd-80d8-42db-89c6-5ad5e7ef81e8.png"/>
+
+
+*A aplicação (backend) está conectada com o Swagger e será aberta na porta:8080 - acesse http://localhost:8080.*
+
+<hr>
 
 <h3>- FRONT-END</h3>
 
@@ -110,14 +120,10 @@ $ git clone https://github.com/squad8-hackatho/squad8-hackathon-front.git
 # Instale as dependências do projeto
 
 $ npm install
-# ou
-$ yarn install 
 
 # Inicie o projeto
 
-$npm start
-# ou
-$ yarn start 
+$npm run dev
 
 #A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
 ~~~
