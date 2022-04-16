@@ -14,7 +14,6 @@
   <a href='#features'>Features</a> | 
   <a href='#conteudoxterno'>Conteúdo Externo</a> | 
   <a href='#nossaequipe'>Nossa Equipe</a> | 
-  <a href='#licenca'>Licença</a>
 
 </p>
 
@@ -184,10 +183,6 @@ Gostaria de saber mais sobre a produção em cada frente ( back-end / front-end)
 |_*Desenvolvedora*_|_*Desenvolvedor*_|_*Desenvolvedor*_|_*Desenvolvedor*_|_*UX Designer*_|_*UX Designer*_|
 |[<img src="https://user-images.githubusercontent.com/88353298/163484213-0db62648-671b-43eb-bdf1-c19b435fe264.svg" width="24"/>](https://github.com/biiah-paixao) - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/beatriz-paixao/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](biaperon2001@gmail.com)|[<img src="https://user-images.githubusercontent.com/88353298/163484213-0db62648-671b-43eb-bdf1-c19b435fe264.svg" width="24"/>](https://github.com/BrunoMundim) - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/bruno-mundim/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](brunomundimfranco@gmail.com)|[<img src="https://user-images.githubusercontent.com/88353298/163484213-0db62648-671b-43eb-bdf1-c19b435fe264.svg" width="24"/>](https://github.com/brunosas88) - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/brunosas/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](bruno.sas@live.com)|[<img src="https://user-images.githubusercontent.com/88353298/163484213-0db62648-671b-43eb-bdf1-c19b435fe264.svg" width="24"/>](https://github.com/Carlos-Xavier) - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/carlos-e-x-bezerra/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](cexbezerra@gmail.com)|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/mariaeduardabribeiro/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](eduardaribeirodg2@gmail.com)|[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/yullibrito/) - [<img src="https://user-images.githubusercontent.com/88353298/163483362-a3b1e4fe-5d03-46a9-ad93-4fcc7af98a9f.png" width="24"/>](design.yullibrito@gmail.com)
 <br>
-
-<h2 id="licenca">Licença</h2>
-
-[LICENSE](#)
 
 <hr>
 
