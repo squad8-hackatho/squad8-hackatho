@@ -13,7 +13,7 @@
   <a href='#comorodaroprojeto'>Como Rodar o Projeto</a> | 
   <a href='#features'>Features</a> | 
   <a href='#conteudoxterno'>Conteúdo Externo</a> | 
-  <a href='#nossaequipe'>Nossa Equipe</a> | 
+  <a href='#nossaequipe'>Nossa Equipe</a>
 
 </p>
 
